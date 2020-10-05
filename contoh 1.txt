@@ -1,2 +1,1 @@
-test github commit 1 di cabang pending
-buat lagi untuk cabang pending lagi
+test github commit 2 di master test lagi
